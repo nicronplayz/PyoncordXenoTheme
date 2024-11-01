@@ -1,0 +1,66 @@
+{
+  "name": "Enhanced Crimson Moon Gradient Theme",
+  "version": "2.4.0",
+  "description": "A stronger red-to-black gradient theme inspired by Crimson Moon with stable, high-contrast background elements.",
+  "authors": [
+    {
+      "name": "Lyntxrya#7769",
+      "id": "183251375193456641"
+    }
+  ],
+  "semanticColors": {
+    "HEADER_PRIMARY": "#ff4d4d",
+    "HEADER_SECONDARY": "#e6b3b3",
+    "TEXT_NORMAL": "#ff6666",
+    "TEXT_MUTED": "#4d0000",
+    "BACKGROUND_PRIMARY": "#1a0000",
+    "BACKGROUND_SECONDARY": "#1a0000",
+    "BACKGROUND_SECONDARY_ALT": "#0d0000",
+    "BACKGROUND_TERTIARY": "#330000",
+    "BACKGROUND_ACCENT": "#330000",
+    "BACKGROUND_MOBILE_PRIMARY": "#1a0000",
+    "BACKGROUND_MOBILE_SECONDARY": "#1a0000",
+    "BACKGROUND_MESSAGE_HOVER": "rgba(255, 0, 0, 0.08)",
+    "BACKGROUND_MODIFIER_HOVER": "rgba(255, 0, 0, 0.1)",
+    "BACKGROUND_MODIFIER_ACTIVE": "rgba(255, 0, 0, 0.15)",
+    "BACKGROUND_MODIFIER_SELECTED": "#990000",
+    "SCROLLBAR_THIN_THUMB": "#661111",
+    "INTERACTIVE_NORMAL": "#ff4d4d",
+    "INTERACTIVE_HOVER": "#b32400",
+    "INTERACTIVE_ACTIVE": "#ff6666",
+    "CHANNEL_ICON": "#ff4d4d",
+    "CHAT_BACKGROUND": "#1a0000",
+    "HOME_BACKGROUND": "#1a0000",
+    "TEXT_DANGER": "#cc0000",
+    "TEXT_LINK": "#ff4d4d"
+  },
+  "rawColors": {
+    "PRIMARY_100": "#ff6666",
+    "PRIMARY_230": "#ff6666",
+    "PRIMARY_600": "#1a0000",
+    "PRIMARY_700": "#1a0000",
+    "BRAND_260": "#ff4d4d",
+    "BRAND_500": "#b32400",
+    "WHITE_500": "#ff6666"
+  },
+  "plus": {
+    "customOverlays": true,
+    "iconpack": "rosiecord-plumpy",
+    "icons": {
+      "ic_new_pins": "#ff4d4d",
+      "StatusStreaming": "#ff3333",
+      "StatusMobileOnline": "#ff4d4d",
+      "StatusIdle": "#cc0000",
+      "StatusDND": "#b32400",
+      "StatusOffline": "#661111",
+      "StatusOnline": "#ff4d4d"
+    }
+  },
+  "background": {
+    "blur": 0,
+    "url": "https://github.com/ZeldrexK0DE/Cosmicka/blob/Dev/wp/wallhaven-2yd739dim.png?raw=true",
+    "alpha": 1.0,
+    "gradient": ["#660000", "#1a0000"]
+  },
+  "spec": 2
+}
