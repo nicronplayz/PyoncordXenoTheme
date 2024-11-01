@@ -1,7 +1,7 @@
 {
-  "name": "Aetherion 2.0 [Red-Black Gradient]",
-  "version": "2.1.0",
-  "description": "A Red and Black Gradient Theme with a Stable Background.",
+  "name": "Aetherion Crimson Moon",
+  "version": "2.2.0",
+  "description": "A Crimson Moon-inspired theme with a dark red gradient.",
   "authors": [
     {
       "name": "Lyntxrya#7769",
@@ -85,7 +85,8 @@
   "background": {
     "blur": 0,
     "url": "https://github.com/ZeldrexK0DE/Cosmicka/blob/Dev/wp/wallhaven-2yd739dim.png?raw=true",
-    "alpha": 1.0
+    "alpha": 1.0,
+    "gradient": ["#1a0000", "#4d0000"]
   },
   "spec": 2
 }
